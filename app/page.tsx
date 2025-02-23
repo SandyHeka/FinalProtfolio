@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="w-screen h-screen relative">
       <div
-        className="flex items-center w-full h-full bg-cover bg-center"
+        className="flex items-center w-full h-full bg-cover bg-center "
         style={{ backgroundImage: "url(/main-bg.webp)" }}
       >
         <div className="pl-20 md:pl-40 pb-56 md:pb-20 flex flex-col gap-5 z-[10] max-w-[750px]">
@@ -58,15 +58,21 @@ export default function Home() {
           Resume
         </Link>
       </div>
-      <div className="absolute bottom-0 right-0 z-[10]">
-        {/* <Image
-          src="/horse.png"
-          alt="horse"
-          height={300}
-          width={300}
-          className="absolute right-56 top-40"
-        /> */}
-        <Image src="/cliff.webp" alt="cliff" width={480} height={480} />
+      <div className="absolute top-48  bottom-0 right-40 z-[10]">
+        <div className="  pb-56 md:pb-20 flex flex-col gap-5 z-[10]  p-4">
+          <div className=" w-56  h-56 border-4 -rotate-45 border-purple-600  animate-light md:w-96 md:h-96"></div>
+          <div className="absolute  w-56 h-56 border-4 border-blue-500 -rotate-45 animate-light-travel -translate-y-0 translate-x-5 md:w-96 md:h-96"></div>
+
+          <div className="absolute  translate-y-1 translate-x-8 overflow-hidden md:w-96 md:h-96">
+            <Image
+              src="/file.png"
+              width={350}
+              height={350}
+              alt="img"
+              className="object-cover rounded-full"
+            />
+          </div>
+        </div>
       </div>
       <div className="absolute bottom-0 z-[5] w-full h-auto">
         <Image

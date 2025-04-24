@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Portfolio Page
 
-## Getting Started
+A clean and responsive portfolio website built to showcase my projects, education, and professional journey. This site reflects my skills, passions, and the work I’ve done as a developer.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🎨 Clean, minimal design
+- 📱 Mobile responsive layout
+- ⚡ Smooth animations with Framer Motion
+- 🧭 Intuitive navigation
+- 🎠 Project carousel powered by Swiper.js
+- ✅ Built with scalable, maintainable TypeScript and ESLint
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- [Next.js](https://nextjs.org/) – React Framework
+- [React](https://reactjs.org/) – JavaScript Library for UI
+- [TypeScript](https://www.typescriptlang.org/) – Strongly typed JavaScript
+- [ESLint](https://eslint.org/) – Linting utility for maintaining clean code
+- [Swiper](https://swiperjs.com/) – Modern mobile touch slider
+- [Framer Motion](https://www.framer.com/motion/) – Powerful animation library for React
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To run this project locally:
 
-## Deploy on Vercel
+1. **Clone the repository**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   git clone https://github.com/yourusername/portfolio-page.git
+   cd portfolio-page
+    npm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ 📸 Usage
+(Screenshots will be added here)
+📬 Contact
+Got feedback or want to connect?
+📧 Email me at: hekaz@gmail.com

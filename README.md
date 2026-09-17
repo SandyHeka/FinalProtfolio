@@ -33,7 +33,7 @@ To run this project locally:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/portfolio-page.git
+   [git clone https://github.com/yourusername/portfolio-page.git](https://github.com/SandyHeka/FinalProtfolio.git)
    cd portfolio-page
     npm run dev
 
@@ -41,4 +41,4 @@ To run this project locally:
 (Screenshots will be added here)
 📬 Contact
 Got feedback or want to connect?
-📧 Email me at: hekaz@gmail.com
+📧 Email me at: sandesh.heka7@gmail.com
